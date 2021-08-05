@@ -1,7 +1,3 @@
 aaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
 ccccccccccccccccccc
-====================
-xxxxxxxxxxxxxx
-yyyyyyyyyyyyyyyy
-zzzzzzzzzzzzzzzzzzzzz
